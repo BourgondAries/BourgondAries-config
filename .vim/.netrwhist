@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kevinrs/stuf/docs/Unnamed-Language/code/ast/tb/parser/dependency'
+let g:netrw_dirhist_2='/home/kevinrs/stuf/docs/Unnamed-Language/code/ast/tb/parser'
+let g:netrw_dirhist_3='/home/kevinrs/stuf/docs/Unnamed-Language/code/ast/tb'
+let g:netrw_dirhist_4='/home/kevinrs/stuf/docs/Unnamed-Language/code/ast/tb/lexer'
+let g:netrw_dirhist_5='/home/kevinrs/stuf/docs/Unnamed-Language/temp'
+let g:netrw_dirhist_6='/home/kevinrs/stuf/docs/Unnamed-Language'
+let g:netrw_dirhist_7='/home/kevinrs/stuf/docs/Unnamed-Language/temp'
+let g:netrw_dirhist_8='/home/kevinrs/stuf/docs/Unnamed-Language'
